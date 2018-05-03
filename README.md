@@ -1,5 +1,6 @@
 # MautixExtendeeAnalyticsBundle
 
-https://mtcextendee.com/
+More info soon.
+Subscribe https://mtcextendee.com/
 
-![analytics](https://user-images.githubusercontent.com/462477/39583351-323b9498-4ef0-11e8-844c-dd56cd0b1247.PNG)
+![Extendee Analytics](https://user-images.githubusercontent.com/462477/39583389-4aeb5190-4ef0-11e8-883f-258b75ba4c08.PNG)
