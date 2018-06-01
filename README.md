@@ -10,7 +10,7 @@ https://docs.mtcextendee.com/#analytics
 
 1. Install by running 
 
-`composer require kuzmany/mautic-extendee-tools-bundle`
+`composer require kuzmany/mautic-extendee-analytics-bundle`
 
 2. Go to Mautic - Plugins and click to the button Install/Upgrade plugins
 
