@@ -2,9 +2,10 @@
 
 Extension for Mautic from Extendee family www.extendee.com Translations and improvements are welcome as pull requests.
 
-### Docs
+### Support our projects
 
-https://docs.mtcextendee.com/#analytics
+- Extensions family for Mautic https://mtcextendee.com/
+- Recommendations engine for Mautic https://mtcrecombee.com/
 
 ### Installation
 
